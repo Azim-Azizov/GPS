@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4SzrdZ7oi5iwBNLWWuYc18TJ/ncFk0Y2UwJl5Mtk46PEJwgAW7QQTdqQIWHSVRqV/Iy33DMwQMdvBHMlpDSCg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AzItTelecom\\sql\\SqlApplication1\\SqlApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azim\\.nuget\\packages\\dapper\\2.0.138\\dapper.2.0.138.nupkg.sha512",
+    "C:\\Users\\Azim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Azim\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
